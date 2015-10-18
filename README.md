@@ -1,4 +1,0 @@
-omakoleg.github.io
-==================
-
-Site
